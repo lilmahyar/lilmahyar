@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=oxygen&color=%2300F716&size=35&center=true&vCenter=true&width=450&height=75&lines=Welcome+to+my+profile+;~+Lil+Mahyar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=oxygen&color=%2300F716&size=35&center=true&vCenter=true&width=450&height=75&lines=>Welcome+to+my+profile+;~+Lil+Mahyar)](https://git.io/typing-svg)
 <!--
 **lilmahyar/lilmahyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

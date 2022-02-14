@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @lilmahyar</li>
-  <li>❤️ I love Creating websites and Programming in C# .</li>
+  <li>❤️ I love contributing on Back-end projects and Programming in C# .</li>
   <li>🌱 I’m currently  Developing ASP.NET Web Applications and Learning  Python  and ML.</li>
 
 </ul>

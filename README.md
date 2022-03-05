@@ -5,7 +5,6 @@
   <a align="center" href=""><img src="https://readme-typing-svg.herokuapp.com?color=%2372F747&size=25&lines=Welcome+to+my+Github+Profile;I'm+Backend+developer;Intrested+in++%3A+ML+%2C+Python+%2C++.Net)](https://git.io/typing-svg" /></a>
 </p>
 <p>I am a Back-end developer, I also like to create projects in python .</p>
-<img align="right" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif">
 <ul>
   <li>👋 Hi, I’m @lilmahyar</li>
   <li>❤️ I love contributing on open-source projects .</li>
